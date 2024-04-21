@@ -30,7 +30,8 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 - Select: `Open a New Ticket`
 
-<img src="https://i.imgur.com/Hocs7bO.png"/>
+<img src="https://i.imgur.com/4Slnd3I.png"/>
+
 
 - <ins>Insert the following ticket information</ins>:
 
@@ -46,6 +47,8 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
   - Click: `Create Ticket`
 
+    <img src="https://i.imgur.com/Hocs7bO.png"/>
+
 >**Note: *When mobile online banking is down it can lead to major loss in revenue for the company.***
 
 
@@ -55,20 +58,21 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 - Login to osTicket as an Agent: `(User: jane.doe / jane.doe@gmail.com)`
 
-<img src"https://i.imgur.com/6ipKM19.png"/>  
+<img src="https://i.imgur.com/6ipKM19.png"/> 
 
 
 
 ***
 
-- Click: The `entire mobile online banking is down` Ticket we made in the prior step of this lab (step 1)
+- Click: The `entire mobile online banking is down`
+  (this is the ticket we just created on the user end as Karen)
  
 <img src"https://i.imgur.com/G4uqKcr.png"/>
 
 ***
 In order for the ticket to be handled properly, information reguarding the severity level can be changed.
-Because the entire mobile banking is down and that is critical to business impact, we are going to change priority
-of this ticket to Emergency and the SLA to SEV-A.
+Because the entire mobile banking is down and that is critical to business impact, we are going to change the priority
+of this ticket to EMERGENCY and the SLA to SEV-A.
 
 <img src="https://i.imgur.com/Dd8m7IY.png"/>
 
@@ -80,6 +84,7 @@ of this ticket to Emergency and the SLA to SEV-A.
 
 
 ***
+ We are also going to assign
 
 - Click: `Department`
 
@@ -90,7 +95,7 @@ of this ticket to Emergency and the SLA to SEV-A.
   - Click: `Transfer`
 
 <p align="center">
-<img width="800" alt="isolated" src="https://github.com/vincentchachere/ticket-lifestyle/assets/161680745/36c0c3af-eef1-42fe-995b-a1434502f81a"><br>
+<img width="800" alt="isolated" src="https://i.imgur.com/Hw2VHyq.png"><br>
 
 ***
 
@@ -168,7 +173,7 @@ of this ticket to Emergency and the SLA to SEV-A.
 *<ins>The ticket should now be on the "closed" tab since it has been resolved.</ins>*
 
 <p align="center">
-<img width="800" alt="isolated" src="https://github.com/vincentchachere/test-ticket-lifestyle/assets/161680745/d2229ae1-877e-4184-b659-16a9c9cd60fd"><br>
+<img width="800" alt="isolated" src="https://i.imgur.com/G4uqKcr.png"><br>
 
 🎉 Congratulations! You have created and resolved your first few tickets! 🎉
 
