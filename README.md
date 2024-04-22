@@ -26,6 +26,8 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 ### Stage 1. ) Intake - Creating Tickets
 
+The first thing we are going to do create a ticket from the user end of the osTicket platform.
+
 - Open osTicket: http://localhost/osTicket/
 
 - Select: `Open a New Ticket`
@@ -67,7 +69,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 - Click: The `entire mobile online banking is down`
   (this is the ticket we just created on the user end as Karen)
  
-<img src"https://i.imgur.com/G4uqKcr.png"/>
+<img src="https://i.imgur.com/1qsE9NG.png"/>
 
 ***
 In order for the ticket to be handled properly, information reguarding the severity level can be changed.
@@ -104,7 +106,7 @@ of this ticket to EMERGENCY and the SLA to SEV-A.
   - Click: `Assign`
 
 <p align="center">
-<img width="800" alt="isolated" src="https://github.com/vincentchachere/ticket-lifestyle/assets/161680745/a554032d-af6a-4a58-8b61-4eb41fb8eb68"><br>
+<img width="800" alt="isolated" src="https://i.imgur.com/WaMBNU3.png"><br>
 
 ***
 
@@ -115,45 +117,39 @@ of this ticket to EMERGENCY and the SLA to SEV-A.
   - Click: `Update`
 
 <p align="center">
-<img width="800" alt="isolated" src="https://github.com/vincentchachere/ticket-lifestyle/assets/161680745/7e8ed40c-2af1-47b0-9c21-f46559d890f8"><br>
+<img width="800" alt="isolated" src="https://i.imgur.com/Dd8m7IY.png"><br>
 
 ***
 
 >**Note: *Make sure your ticket information matches the image below and continue to the next step.***
 
 <p align="center">
-<img width="800" alt="isolated" src="https://github.com/vincentchachere/test-ticket-lifestyle/assets/161680745/2fcefd0b-2348-4657-9815-518cf0a24ef3"><br>
+<img width="800" alt="isolated" src="https://i.imgur.com/N2HuQJg.png"><br>
 
 ***
 
 >**Note: *This is where you will see the history and updates of the tickets. &darr;***
 
 <p align="center">
-<img width="800" alt="isolated" src="https://github.com/vincentchachere/ticket-lifestyle/assets/161680745/24eb9246-f9ab-4d37-b64f-920b9632a609"><br>
-
-***
-
-- Response Text Box: `Coordinating with Sys Admin Team to bring mobile banking back online.`
-
-- Select: `Post Reply`
-
->**Note: *The organizaition you work for will determine the type of details you type into the description.***
-
-<p align="center">
-<img width="800" alt="isolated" src="https://github.com/vincentchachere/ticket-lifestyle/assets/161680745/1b17a40a-3193-423b-9bdd-201edc1fa24a"><br>
-
-***
-
-- Go Back To: The `entire mobile online banking is down` Ticket
-
-<p align="center">
-<img width="800" alt="isolated" src="https://github.com/vincentchachere/test-ticket-lifestyle/assets/161680745/144b43ef-ea8a-4997-bc9c-de5c09c98ae0"><br>
+<img width="800" alt="isolated" src="https://i.imgur.com/UOOBCD6.png"><br>
 
 ***
 
 ### Stage 3. ) Working the Issue
 
 - On the back end, Jane is working with the System Adminstrator team to resolve the issue.
+
+- Response Text Box: `Coordinating with Sys Admin Team to bring mobile banking back online.`
+
+- Select: `Post Reply`
+
+
+<p align="center">
+<img width="800" alt="isolated" src="https://i.imgur.com/ABuZ4RN.png"><br>
+**Note: *The organizaition you work for will determine the type of details you type into the description.**
+
+
+***
 
 ### Stage 4. ) Resolution
      
@@ -166,7 +162,7 @@ of this ticket to EMERGENCY and the SLA to SEV-A.
 - Select: `Post Reply`
 
 <p align="center">
-<img width="800" alt="isolated" src="https://github.com/vincentchachere/ticket-lifestyle/assets/161680745/9a8e565a-0549-4171-8c0d-72dbb5d37afe"><br>
+<img width="800" alt="isolated" src="https://i.imgur.com/KnWu3Q7.png"><br>
 
 ***
 
