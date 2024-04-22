@@ -3,7 +3,7 @@
 </p>
 
 # osTicket - Ticket Lifecycle: Intake Through Resolution
-This tutorial outlines the lifecycle of a ticket from intake to resolution within the open-source helpdesk ticketing system osTicket.<br/>
+This tutorial outlines the lifecycle of a ticket from intake to resolution within the open-source helpdesk ticketing system osTicket.I will start by creating the ticket acting as a user with an actual problem. Then I will log into the ticketing system as an agent and begin working and resolving the ticket.<br/>
 
 ## Environments and Technologies Used
 
@@ -86,7 +86,7 @@ of this ticket to EMERGENCY and the SLA to SEV-A.
 
 
 ***
- We are also going to assign
+ We are also going to transfer the ticket to the system administrators department and then assign it to an agent which in this case will be ourself "aka" Jane Doe.
 
 - Click: `Department`
 
@@ -171,9 +171,9 @@ of this ticket to EMERGENCY and the SLA to SEV-A.
 <p align="center">
 <img width="800" alt="isolated" src="https://i.imgur.com/G4uqKcr.png"><br>
 
-🎉 Congratulations! You have created and resolved your first few tickets! 🎉
+🎉🎉🎉 Congratulations! You have created and resolved your first few tickets! 
 
-☎️ For any questions, concerns, or just to connect, you can contact me at:
+💙 I'd love to connect 💙 
 
 📲 LinkedIn: www.linkedin.com/in/misskayteedee
 
