@@ -3,7 +3,7 @@
 </p>
 
 # osTicket - Ticket Lifecycle: Intake Through Resolution
-This tutorial outlines the lifecycle of a ticket from intake to resolution within the open-source helpdesk ticketing system osTicket.I will start by creating the ticket acting as a user with an actual problem. Then I will log into the ticketing system as an agent and begin working and resolving the ticket.<br/>
+This tutorial outlines the lifecycle of a ticket from intake to resolution within the open-source helpdesk ticketing system osTicket.I will start by creating the ticket as a user with an actual problem. Then, I will log into the ticketing system as an agent and begin working on resolving the ticket.<br/>
 
 ## Environments and Technologies Used
 
@@ -26,13 +26,13 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 ### Stage 1. ) Intake - Creating Tickets
 
-The first thing we are going to do create a ticket from the user end of the osTicket platform.
+The first thing we will do is create a ticket from the user end of the osTicket platform.
 
 - Open osTicket: http://localhost/osTicket/
 
 - Select: `Open a New Ticket`
 
-<img src="https://i.imgur.com/4Slnd3I.png"/>
+<p align="center"><img src="https://i.imgur.com/4Slnd3I.png"/></p>
 
 
 - <ins>Insert the following ticket information</ins>:
@@ -49,9 +49,9 @@ The first thing we are going to do create a ticket from the user end of the osTi
 
   - Click: `Create Ticket`
 
-    <img src="https://i.imgur.com/Hocs7bO.png"/>
-
->**Note: *When mobile online banking is down it can lead to major loss in revenue for the company.***
+    <p align="center"><img src="https://i.imgur.com/Hocs7bO.png"/></p>
+    
+>**Note: *When mobile online banking is down, it can lead to a major loss in revenue for the company.***
 
 
 ***
@@ -60,7 +60,7 @@ The first thing we are going to do create a ticket from the user end of the osTi
 
 - Login to osTicket as an Agent: `(User: jane.doe / jane.doe@gmail.com)`
 
-<img src="https://i.imgur.com/6ipKM19.png"/> 
+<p align="center"><img src="https://i.imgur.com/6ipKM19.png"/></p>
 
 
 
@@ -69,14 +69,14 @@ The first thing we are going to do create a ticket from the user end of the osTi
 - Click: The `entire mobile online banking is down`
   (this is the ticket we just created on the user end as Karen)
  
-<img src="https://i.imgur.com/1qsE9NG.png"/>
+<p align="center"><img src="https://i.imgur.com/1qsE9NG.png"/></p>
 
 ***
-In order for the ticket to be handled properly, information reguarding the severity level can be changed.
-Because the entire mobile banking is down and that is critical to business impact, we are going to change the priority
+For the ticket to be handled properly, information regarding the severity level can be changed.
+Because the entire mobile banking is down and critical to business impact, we will change the priority
 of this ticket to EMERGENCY and the SLA to SEV-A.
 
-<img src="https://i.imgur.com/Dd8m7IY.png"/>
+<p align="center"><img src="https://i.imgur.com/Dd8m7IY.png"/></p>
 
 - Priority: `Emergency`
 
@@ -86,7 +86,7 @@ of this ticket to EMERGENCY and the SLA to SEV-A.
 
 
 ***
- We are also going to transfer the ticket to the system administrators department and then assign it to an agent which in this case will be ourself "aka" Jane Doe.
+ We are also going to transfer the ticket to the system administrators department and then assign it to an agent, who in this case will be ourselves, Jane Doe.
 
 - Click: `Department`
 
@@ -97,7 +97,7 @@ of this ticket to EMERGENCY and the SLA to SEV-A.
   - Click: `Transfer`
 
 <p align="center">
-<img width="800" alt="isolated" src="https://i.imgur.com/Hw2VHyq.png"><br>
+<img width="800" alt="isolated" src="https://i.imgur.com/Hw2VHyq.png"><br></p>
 
 ***
 
@@ -146,7 +146,7 @@ of this ticket to EMERGENCY and the SLA to SEV-A.
 
 <p align="center">
 <img width="800" alt="isolated" src="https://i.imgur.com/ABuZ4RN.png"><br>
-**Note: *The organizaition you work for will determine the type of details you type into the description.**
+**Note: *The organization you work for will determine the type of details you type into the description.**
 
 
 ***
@@ -162,7 +162,7 @@ of this ticket to EMERGENCY and the SLA to SEV-A.
 - Select: `Post Reply`
 
 <p align="center">
-<img width="800" alt="isolated" src="https://i.imgur.com/KnWu3Q7.png"><br>
+<img width="800" alt="isolated" src="https://i.imgur.com/Ld8YOkj.png"><br>
 
 ***
 
@@ -171,10 +171,10 @@ of this ticket to EMERGENCY and the SLA to SEV-A.
 <p align="center">
 <img width="800" alt="isolated" src="https://i.imgur.com/G4uqKcr.png"><br>
 
-🎉🎉🎉 Congratulations! You have created and resolved your first few tickets! 
+🎉🎉🎉 Congratulations! You have created and resolved your first ticket! 
 
 💙 I'd love to connect 💙 
 
 📲 LinkedIn: www.linkedin.com/in/misskayteedee
 
-📬 Email: misskayteedee@gmail.com
+📬 Email: katiedavis.customersrvcepro@gmail.com
