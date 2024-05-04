@@ -86,7 +86,7 @@ of this ticket to EMERGENCY and the SLA to SEV-A.
 
 
 ***
- We are also going to transfer the ticket to the system administrators department and then assign it to an agent, who in this case will be ourselves, Jane Doe.
+ We will also transfer the ticket to the system administrators department and then assign it to an agent, who in this case will be ourselves, Jane Doe.
 
 - Click: `Department`
 
@@ -171,7 +171,7 @@ of this ticket to EMERGENCY and the SLA to SEV-A.
 <p align="center">
 <img width="800" alt="isolated" src="https://i.imgur.com/G4uqKcr.png"><br>
 
-🎉🎉🎉 Congratulations! You have created and resolved your first ticket as a help desk agent! 
+🎉🎉🎉 Congratulations! You have successfully resolved your first ticket as a help desk support agent! 
 
 💙 I'd love to connect 💙 
 
