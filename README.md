@@ -171,7 +171,7 @@ of this ticket to EMERGENCY and the SLA to SEV-A.
 <p align="center">
 <img width="800" alt="isolated" src="https://i.imgur.com/G4uqKcr.png"><br>
 
-🎉🎉🎉 Congratulations! You have created and resolved your first ticket! 
+🎉🎉🎉 Congratulations! You have created and resolved your first ticket as a help desk agent! 
 
 💙 I'd love to connect 💙 
 
